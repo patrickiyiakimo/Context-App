@@ -4,7 +4,7 @@ class BookList extends Component {
     
     render() { 
         return (
-          <div className="booklist">
+          <div className="book-list">
             <ul>
               <li>the way of kings</li>
               <li>the final empire</li>
